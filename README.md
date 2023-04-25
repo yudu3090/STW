@@ -1,6 +1,6 @@
 # STW
 
-Sufiksų medis
+## Sufiksų medis
 
 Sufiksų medis yra labai svarbi ir naudinga daugelio programų duomenų struktūra. Tradiciniai 
 tokio medžio konstravimo algoritmai labai priklauso nuo to, ar visos priesagos yra įterptos, kad 
@@ -23,7 +23,7 @@ galima manyti, kad n sudėtingumo medžiui sukurti reikia tik O (n) laiko ir O (
 ![image](https://user-images.githubusercontent.com/45011652/234404754-a1c993a1-6f03-4792-9c50-72fec65545c6.png)
 
 
-Suffix Trees on Words
+## Suffix Trees on Words
 
 The suffix tree is a very important and useful data structure for many applications. 
 Traditional suffix tree construction algorithms rely heavily on the fact that all suffixes are 
